@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Login",
+    "\\src\\components\\Main",
+    "\\src\\components\\PracticeExam",
+    "\\src\\components\\PracticeResult",
+    "\\src\\components\\Register",
+    "\\src\\components\\Scores",
+    "\\src\\components\\Taketest"
+  ],
+  "SelectedNode": "\\src\\App.css",
+  "PreviewInSolutionExplorer": false
+}
